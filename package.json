@@ -1,5 +1,6 @@
 {
-    "name": "react-portfolio",
+    "name": "homepage",
+    "homepage": "https://jeff665547.github.io",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -21,7 +22,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "predeploy": "yarn build && cp build/index.html build/404.html",
+        "predeploy": "yarn build && copy build\\index.html build\\404.html",
         "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
