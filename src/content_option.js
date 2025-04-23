@@ -1,6 +1,6 @@
 const logotext = "J";
 const meta = {
-    title: "Jeff's Studio",
+    title: "Jeff Studio",
     description: "I’m Jeff Ho data scientist _ Full stack devloper,currently working in Berlin",
 };
 
